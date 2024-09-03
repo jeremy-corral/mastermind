@@ -1,0 +1,14 @@
+D:\workspace\mastermind\mastermind\bin\Debug\net8.0\mastermind.exe
+D:\workspace\mastermind\mastermind\bin\Debug\net8.0\mastermind.deps.json
+D:\workspace\mastermind\mastermind\bin\Debug\net8.0\mastermind.runtimeconfig.json
+D:\workspace\mastermind\mastermind\bin\Debug\net8.0\mastermind.dll
+D:\workspace\mastermind\mastermind\bin\Debug\net8.0\mastermind.pdb
+D:\workspace\mastermind\mastermind\obj\Debug\net8.0\mastermind.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\mastermind\mastermind\obj\Debug\net8.0\mastermind.AssemblyInfoInputs.cache
+D:\workspace\mastermind\mastermind\obj\Debug\net8.0\mastermind.AssemblyInfo.cs
+D:\workspace\mastermind\mastermind\obj\Debug\net8.0\mastermind.csproj.CoreCompileInputs.cache
+D:\workspace\mastermind\mastermind\obj\Debug\net8.0\mastermind.dll
+D:\workspace\mastermind\mastermind\obj\Debug\net8.0\refint\mastermind.dll
+D:\workspace\mastermind\mastermind\obj\Debug\net8.0\mastermind.pdb
+D:\workspace\mastermind\mastermind\obj\Debug\net8.0\mastermind.genruntimeconfig.cache
+D:\workspace\mastermind\mastermind\obj\Debug\net8.0\ref\mastermind.dll
